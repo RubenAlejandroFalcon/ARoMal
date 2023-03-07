@@ -1,0 +1,4 @@
+LIBRARY   blowfish
+DESCRIPTION "Encripta un password con el algoritmo blowfish."
+EXPORTS
+	blowfish_encrypt_pass     @1
